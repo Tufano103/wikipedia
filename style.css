@@ -1,0 +1,151 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.wikicontain{
+text-align: center;
+margin-top: 50px;
+line-height: 40px;
+font-weight: lighter;
+font-family: Linux Libertine,Hoefler Text,Georgia,Times New Roman,Times,serif;
+
+}
+.wiki{
+text-align: center;
+position: relative;
+top: 70px;
+font-weight: 400;
+}
+.eng{
+  position: absolute;
+top: 160px;
+left: 460px;
+color: rgb(51, 102, 204);
+
+}
+.es{
+  position: absolute;
+  top: 230px;
+  left: 420px; 
+  color: rgb(51, 102, 204);
+
+}
+.deut{
+  position: absolute;
+  top: 280px;
+  left: 405px; 
+  color: rgb(51, 102, 204);
+
+}
+.italy{
+  position: absolute;
+  top: 330px;
+  left: 425px;  
+  color: rgb(51, 102, 204);
+}
+.por{
+  position: absolute;
+  top: 390px;
+  left: 480px;  
+  color: rgb(51, 102, 204);
+}
+.chin{
+  position: absolute;
+  top: 160px;
+  left: 780px;  
+  color: rgb(51, 102, 204);
+}
+.chinko{
+  position: absolute;
+  top: 230px;
+  left: 820px;  
+  color: rgb(51, 102, 204);
+}
+.french{
+  position: absolute;
+  top: 280px;
+  left: 850px;  
+  color: rgb(51, 102, 204);
+}
+.korean{
+  position: absolute;
+  top: 330px;
+  left: 865px;  
+  color: rgb(51, 102, 204);
+}
+.iraq{
+  position: absolute;
+  top: 395px;
+  left: 800px;  
+  color: rgb(51, 102, 204);
+}
+select{
+  position: absolute;
+  top: 470px;
+  left: 510px;  
+  text-align: right;
+  width: 430px;
+  height: 50px;
+
+}
+.img{
+  background-color: blue;
+  color: blue;
+  width: 50px;
+  position: absolute;
+  top: 470px;
+  left: 940px;  
+  height: 30px;
+  padding: 9px;
+}
+.Read{
+  width: 350px;
+  height: 30px;
+  border: 1px solid black;
+  position: absolute;
+  top: 540px;
+  left: 520px;  
+  padding-top: 15px;
+  padding-left: 45px;
+  
+}
+p{
+  color: black;
+  font-weight: lighter;
+}
+.alpha{
+  position: absolute;
+  padding-right: 25px;
+}
+.line{
+  height: 1px;
+  background-color: #c5c5c5;
+  flex: 1;
+}
+.arrow{
+  padding-left: 25px;
+  
+}
+.pta{
+  margin-left: -18px !important;
+}
+.ptc{
+  margin-left: -15px !important;
+}
+.ptd{
+  margin-right: -20px !important;
+}
+.ptb{
+  margin-left: -25px !important;
+}
+h1{
+  font-weight: lighter;
+  color: #3b4a54;
+  /* font-size: 3.2em; */
+}
+.free{
+  font-weight: lighter;
+  color: #3b4a54;
+  /* border-bottom: 1px solid black; */
+
+}
